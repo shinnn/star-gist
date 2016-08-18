@@ -3,8 +3,8 @@
 [![NPM version](https://img.shields.io/npm/v/star-gist.svg)](https://www.npmjs.com/package/star-gist)
 [![Build Status](https://travis-ci.org/shinnn/star-gist.svg?branch=master)](https://travis-ci.org/shinnn/star-gist)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/star-gist.svg)](https://coveralls.io/github/shinnn/star-gist)
-[![Dependency Status](https://david-dm.org/shinnn/star-gist.svg)](https://david-dm.org/shinnn/star-gist)
-[![devDependency Status](https://david-dm.org/shinnn/star-gist/dev-status.svg)](https://david-dm.org/shinnn/star-gist#info=devDependencies)
+[![dependencies Status](https://david-dm.org/shinnn/star-gist/status.svg)](https://david-dm.org/shinnn/star-gist)
+[![devDependencies Status](https://david-dm.org/shinnn/star-gist/dev-status.svg)](https://david-dm.org/shinnn/star-gist?type=dev)
 
 Star a [gist](https://gist.github.com/)
 
